@@ -33,10 +33,3 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
 </div>
 
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/macs0021/macs0021/output/snake.svg" alt="Snake animation" />
-
-###
