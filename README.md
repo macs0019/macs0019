@@ -55,7 +55,7 @@
 ###
 
 <div align="center">
-  <img src="https://https://streak-stats.demolab.com/?user=macs0019&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5" height="200" alt="streak graph"  />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=macs0019&theme=dark&hide_border=false&border_radius=5" height="200" alt="streak graph" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=macs0019&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=dark&hide_border=false" height="200" alt="languages graph"  />
 </div>
 
